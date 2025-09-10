@@ -87,6 +87,8 @@ Each **+** is a bonus point for:
 
 | Title | Year | Author |
 |-------|------|--------|
+| [Why everyone’s switching to AI credits](https://www.growthunhinged.com/p/ai-credit-pricing) | September 2025 | Kyle Poyar | 
+| [The Pruna AI Pricing Case Study](https://quentinsinig.substack.com/p/launching-awesome-pricing-on-github) | August 2025 | Quentin Sinig | 
 | [Traditional Marketing Doesn’t Work on Developers](https://everydeveloper.com/traditional-marketing-unresponsive/) | November 2024 | Adam DuVander | 
 | [The DNA of a Great Pricing Page](https://www.elenaverna.com/p/the-dna-of-a-great-pricing-page) | October 2024 | Elena Verna |
 | We’ve decided to make less money [Part 1](https://posthog.com/blog/session-replay-pricing) + [Part 2](https://posthog.com/blog/analytics-pricing) | July 2024 | James Hawkins |
@@ -99,6 +101,7 @@ Each **+** is a bonus point for:
 
 | Title | Year | Author(s) |
 |-------|------|--------|
+| [The Monetization Operating Model](https://metronome.com/monetization-operating-model) | September 2025 | Metronome
 | [The Art of Software Pricing: Unleashing Growth with Data-Driven Insights](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-art-of-software-pricing-unleashing-growth-with-data-driven-insights) | June 2023 | McKinsey & Company (Christian Fielitz, Mohit Khanna, Paul Roche, Michelle Nguyen and Varshik Nimmagadda) |
 | [Top 10 Learnings from the Redpoint 2020 GTM Survey](https://tomtunguz.com/redpoint-2020-gtm-survey/) | June 2020 | Theory Ventures (Tomasz Tunguz) |
 
