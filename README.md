@@ -37,6 +37,7 @@ Think of it as a starting point for:
 | [Pruna AI](https://pruna.ai) | AI Optimization Framework | Per Hour | 3 | AAA+++++ |
 | [Sanity](https://www.sanity.io/) | Content Operating System (CMS) | Per Seat | 3 | AAA++ |
 | [Clay](https://posthog.com/) | Data Platform for Enrichment, Search & Automation | Credits | 5 | AA++ |
+| [Count](https://count.co/pricing) | Collaborative, canvas-based BI platform | Per seat | 4 | AA++ |
 | [Posthog](https://posthog.com/) | Analytics Platform | Hybrid (Multiple Usage-Based Metrics) | 2 | A+++ |
 | [Langfuse](https://langfuse.com) | Open Source LLM Engineering Platform | Hybrid (Fixed Fee + Single Usage-Based Metric) | 4 | AAA++++ |
 | [Weights&Biases](https://wandb.ai) | AI developer platform | Hybrid (Per Seat + Multiple Usage-Based Metrics) | 3 | AA+ |
