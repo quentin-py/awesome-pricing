@@ -88,6 +88,7 @@ Each **+** is a bonus point for:
 
 | Title | Year | Author |
 |-------|------|--------|
+| [My beef with AI credit pricing](https://www.elenaverna.com/p/i-hate-ai-credits-pricing) | November 2025 | Elena Verna |
 | [A framework for pricing AI products](https://stripe.com/blog/a-framework-for-pricing-ai-products) | September 2025 | Kunal Mahajan & Helen Lee | 
 | [Why everyone’s switching to AI credits](https://www.growthunhinged.com/p/ai-credit-pricing) | September 2025 | Kyle Poyar | 
 | [The Pruna AI Pricing Case Study](https://quentinsinig.substack.com/p/launching-awesome-pricing-on-github) | August 2025 | Quentin Sinig | 
