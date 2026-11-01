@@ -104,6 +104,7 @@ Each **+** is a bonus point for:
 
 | Title | Year | Author(s) |
 |-------|------|--------|
+| [GTMStack Tracker: Open Pricing Dataset of 39 Sales & Outbound Tools (129 plans, CSV, CC BY 4.0)](https://ajaynallavelli.github.io/gtmstack-tracker/data/pricing.csv) | October 2026 | GTMStack Tracker (Ajay Nallavelli) |
 | [SaaS & AI Pricing Report 2026](https://pricing.hy.co/saas-ai-pricing-report-2026-en/) | September 2025 | hy x OMR Reviews
 | [The Monetization Operating Model](https://metronome.com/monetization-operating-model) | September 2025 | Metronome
 | [The Art of Software Pricing: Unleashing Growth with Data-Driven Insights](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-art-of-software-pricing-unleashing-growth-with-data-driven-insights) | June 2023 | McKinsey & Company (Christian Fielitz, Mohit Khanna, Paul Roche, Michelle Nguyen and Varshik Nimmagadda) |
